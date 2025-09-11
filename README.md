@@ -3,7 +3,7 @@ Call me <b>Fasya</b>, I am a <b>Fullstack Developer</b> with 2 years of experien
 
 <hr>
 
-<h2 align="center">🛠️ Skills</h2>
+<h2 align="align">🛠️ Skills</h2>
 <p align="center">
   <kbd>
     <kbd>Frontend</kbd>

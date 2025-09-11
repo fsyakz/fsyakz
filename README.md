@@ -1,14 +1,26 @@
-### 🧑‍💻 About Me  
+<h2 align="center"><u>About Me</u></h2>
+Call me <b>Fasya</b>, I am a <b>Fullstack Developer</b> with 2 years of experience in coding. 
+At 18 years old, I specialize in developing <b>websites and applications</b> and I am passionate 
+about continuously learning and growing in the world of technology.
 
-Call me **Fasya**, I am a **Fullstack Developer** with **2 years of experience** in coding.  
-At 18 years old, I specialize in developing **websites and applications**,  
-with a strong passion for continuous learning and growth in technology.  
-
----
-
-## 🛠️ Skills  
-
-| 🌐 Frontend | ⚙️ Backend | 🗄️ Database & ☁️ Cloud |
-|-------------|------------|-------------------------|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)<br>![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)<br>![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-
+<h2 align="center"><u>Skills</u></h2>
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Frontend</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Backend</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Database & Cloud</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  </kbd>
+</p>

@@ -1,25 +1,32 @@
-<h2 align="center"><u>About Me</u></h2>
-Call me <b>Fasya</b>, I am a <b>Fullstack Developer</b> with 2 years of experience in coding. 
-At 18 years old, I specialize in developing <b>websites and applications</b> and I am passionate 
+<h2 align="center">✨ About Me 🧑🏼‍💻 ✨</h2>
+<p align="center">
+  Call me <b>Fasya</b> � <br>
+  I am an <b>18-year-old Fullstack Developer</b> with <b>2 years of experience</b> in coding. <br>
+  I specialize in building <b>websites</b> and <b>applications</b>, and I am passionate about <b>technology & innovation</b>.
+</p>
 
-<h2 align="center"><u>Skills</u></h2>
-<p style="display: inline-block;" align="center">
+<hr>
+
+<h2 align="center">🛠️ Skills</h2>
+<p align="center">
   <kbd>
     <kbd>Frontend</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"/>
   </kbd>
   <kbd>
     <kbd>Backend</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express"/>
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL"/>
   </kbd>
   <kbd>
     <kbd>Database & Cloud</kbd>
     <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
   </kbd>
 </p>
+
+<hr>

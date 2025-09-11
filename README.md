@@ -21,6 +21,5 @@ At 18 years old, I specialize in developing <b>websites and applications</b> and
     <kbd>Database & Cloud</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   </kbd>
 </p>

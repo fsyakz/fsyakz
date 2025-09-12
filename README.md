@@ -1,5 +1,5 @@
 <h2 align="align">✨ About Me 🧑🏼‍💻 ✨</h2>
-Call me <b>Fasya</b>, I am a <b>Fullstack Developer</b> with 2 years of experience in coding. At 18 years old, I specialize in developing <b>websites and applications</b> and I am passionate
+Call me <b>Fasya</b>, I am a <b>Fullstack Developer</b> with 2 years of experience in coding. At 18 years old, I specialize in developing <b>websites </b> and I am passionate
 
 <hr>
 
